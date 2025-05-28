@@ -1,0 +1,9 @@
+EXPLICAÇÕES:
+
+Torre: utiliza for para imprimir 5 vezes "Direita".
+
+Bispo: usa while para imprimir 5 vezes a direção combinada "Cima, Direita".
+
+Rainha: usa do-while para imprimir 8 vezes "Esquerda".
+
+Cada movimento corresponde a uma casa e é exibido linha a linha no console.
